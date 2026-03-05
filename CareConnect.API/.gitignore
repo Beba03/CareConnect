@@ -1,0 +1,15 @@
+## Build outputs
+bin/
+obj/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+
+## App settings with secrets
+appsettings.Development.json
+appsettings.json
+
+## Published output
+publish/
